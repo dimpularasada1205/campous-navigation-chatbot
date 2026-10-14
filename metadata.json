@@ -1,0 +1,6 @@
+{
+  "name": "KIET Campus Navigation Chatbot",
+  "description": "Campus navigation, shortest-path route planner, and interactive chatbot for Kakinada Institute of Engineering and Technology (KIET), Korangi, Kakinada, Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
